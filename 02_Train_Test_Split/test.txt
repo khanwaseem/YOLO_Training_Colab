@@ -1,0 +1,7 @@
+C:\Users\Marya\Desktop\Hands-on_JSS\Yolo-Training-GoogleColab\Data/20.jpg
+C:\Users\Marya\Desktop\Hands-on_JSS\Yolo-Training-GoogleColab\Data/34.jpg
+C:\Users\Marya\Desktop\Hands-on_JSS\Yolo-Training-GoogleColab\Data/51.jpg
+C:\Users\Marya\Desktop\Hands-on_JSS\Yolo-Training-GoogleColab\Data/67.jpg
+C:\Users\Marya\Desktop\Hands-on_JSS\Yolo-Training-GoogleColab\Data/78.jpg
+C:\Users\Marya\Desktop\Hands-on_JSS\Yolo-Training-GoogleColab\Data/92.jpg
+C:\Users\Marya\Desktop\Hands-on_JSS\Yolo-Training-GoogleColab\Data/road.jpg
